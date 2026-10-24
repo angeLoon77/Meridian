@@ -1,0 +1,4 @@
+PERIOD = "3mo"
+MARGIN = 0.02
+DROP_LIMIT = -0.10
+TICKERS = {}
